@@ -1,0 +1,29 @@
+{
+  "darkest": {
+    "main": "#13111a",
+    "secondary": "#13111a",
+    "text_main": "#ffffff",
+    "border_color": "grey"
+  },
+
+  "dark": {
+    "main": "#2b2738",
+    "secondary": "#1f1c29",
+    "text_main": "#ffffff",
+    "border_color": "grey"
+  },
+
+  "light": {
+    "main": "#cbd4ba",
+    "secondary": "#9ca38c",
+    "text_main": "#000000",
+    "border_color": "white"
+  },
+
+  "lightest": {
+    "main": "#f2f0f5",
+    "secondary": "#e1dae6",
+    "text_main": "#000000",
+    "border_color": "white"
+  }
+}

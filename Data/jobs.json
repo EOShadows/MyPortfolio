@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Undergraduate Teaching Assistant",
+    "company": "Colorado State University",
+    "department": "Computer Science Department",
+    "description": "From August 2021 to Spring 2024 I worked as an undergraduate teaching assistant for various classes teaching C++ and software development fundementals.",
+    "responsibilities": [
+      "Hold weekly office hours on Teams, where students can ask me questions about C++ or other course content, and request help when struggling with their code.",
+      "Attend in person recitations/labs, where I assist students by being there to answer any questions they might have.",
+      "Grade student C++ assignments based on their coding style, ranging from small programs to code bases consisting of several different files."
+    ],
+    "secondary_color_1": "#7d7d7d",
+    "secondary_color_2": "#a8a8a8"
+  },
+
+  {
+    "name": "Software Intern",
+    "company": "DISH",
+    "department": "R&D Software Department",
+    "description": "From May 31st 2023 - August 5th 2023, worked as a software intern for a 10 week program held by DISH.",
+    "responsibilities": [
+      "Researched the implementation of networking solutions for Android TV devices.",
+      "Used Android Studio to implement applications using Java and XML to develop and test networking solutions.",
+      "Tested applications on Android TV devices using adb.",
+      "Analyzed large C++ code bases as part of my research and testing of networking solutions."
+    ],
+    "secondary_color_1": "#7d7d7d",
+    "secondary_color_2": "#a8a8a8"
+  }
+]

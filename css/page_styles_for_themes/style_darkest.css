@@ -1,0 +1,12 @@
+﻿:root {
+    --main: #1e1b29;
+    --secondary: #0e0e15;
+    --text_main: #ffffff;
+    --border_color: grey;
+    --shadow_normal: 0 8px 5px 8px rgba(0, 0, 0, 0.494);
+    --mybutton_hover_border: 2px solid rgb(62, 62, 62);
+    --cs_icon: url("/images/version1/cs_icon.png");
+    --game_icon: url("/images/version1/game_icon.png");
+    --bg_image: url("/images/version1/tech_bg.png");
+    --tag_color: rainbow;
+}

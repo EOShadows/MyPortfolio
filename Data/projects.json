@@ -1,0 +1,98 @@
+[
+  {
+    "name": "This Portfolio",
+    "tags": [ "HTML", "CSS", "C#", "Javascript", "Blazor", "JSON", "Graphic Design", "Web Design" ],
+    "link": "NULL",
+    "link_label": "",
+    "description": [
+      "Using HTML and CSS, I made this portfolio.",
+      "  I started with Javascript, but as I wanted to practice more with C# and .NET and found it was possible with Blazor, I switched over while coding the website.  I still used Javascript for some aspects, but C# became the main logic.",
+      "  I believe this examplified not only my capability in web development, but also my ability to learn and research a new form of development and apply new skills to a goal.",
+      "  Before this I had done some work on a web application for coursework, but that focused more on the server side, and the client side mostly consisted of Javascript.",
+      "\n\nSome interesting features of the website are: ",
+      "\n\n\t - The color scheme of the website changes according to the web browser theme (dark/light)",
+      "\n\t - Buttons that change in appearance when you hover or click on them, and lead to other websites or other pages of this website.",
+      "\n\t - The tags for each of the projects on this page are set to automatically set their border color according to a range of colors. ",
+      "\n\t   All I have to do is add another tag to a JSON file, and the C# script of this page will automatically look at the range of colors",
+      "\n\t   and decide on what color the tag should be based on where it sits in the range."
+    ]
+  },
+
+  {
+    "name": "C# WinForms Game Reconstruction",
+    "tags": [ "C#", ".NET Framework", "WinForms", "Game Development", "Game Engine Programming", "Clean Code", "Software Design" ],
+    "link": "https://github.com/EOShadows/.NETFrameworkPracticeProject1",
+    "link_label": "GitHub Repository",
+    "description": [
+      "Starting with a WinForms project, I removed a lot of the original code for the WinForms project and replaced it with C# code to make it into the basics of a game.",
+      "  I wrote this C# game code from scratch, including drawing the graphics to the screen in code rather than relying on the WinForms prewritten logic for drawing the drag and drop assets.",
+      "  I believe this project examplified several skills.  First off my ability to program in C#, using my experience programming in it since high school as well as new aspects of C# that I ",
+      "  not only learned quickly and easily but also was excited by.  C# is a very amazing language with so many features that make programming in it so enjoyable.",
+      "  I also found that this also examplified my game/engine programming skills, writing 2D video game code from scratch without the need of a game engine."
+    ]
+  },
+
+  {
+    "name": "Unreal VR Game Project",
+    "tags": [ "Unreal Engine", "Blueprint Scripting", "VR", "Oculus Quest 2", "Blender", "Class Project", "Game Design", "Game Development", "Human-Computer Interaction", "Virtual Reality", "User Experience", "3D Modeling" ],
+    "link": "https://github.com/csu-hci-projects/FA22-OHaraA_SturgeonM",
+    "link_label": "GitHub Repository",
+    "description": [
+      "As part of a class titled \"Design Thinking Toolbox: Mixed Reality Design\" with course number \"CS-310H\", I had the opportunity to work on a large VR project during the extent of the class.",
+      "  Teaming up with friend, I used Unreal Engine and its Blueprint Scripting, Blender, and an Oculus Quest 2 headset for testing.  The goal of the project was to take a 2D horror/cooking game that ",
+      "me and my friend had made for a Game Jam (short game competition) and turn it into a VR experience.  We believed that given the variety of tasks and game mechanics in the 2D game, creating a VR version",
+      " of it would give us the chance to implement a lot of interaction techniques.  While we did not get to everything we had hoped to in our initial proposal, we did successfully make the VR game with a ",
+      "win state, lose state, and many different interactions and game mechanics.  It included interactions such as an oven hatch that you could grab the handle of and open and close, which felt really nice,",
+      " a interactable map on your wrist that could be used to navigate between rooms, and appliances that could be used to actually make dishes using certain ingredients that you could find in different rooms.",
+      " \n\nWithout a doubt I feel like this was a huge experience.  I gained a ton of experience in Blueprint Scripting and using Unreal Engine, having done a large majority of the scripting/development of the",
+      " VR game (my teammate focused mostly on Blender models, such as ingredients and other items).  I also gained a lot of experience in thinking about user experience in the VR context, such as what game mechanics",
+      " would work best to immerse the player in the game.  I also gained experience in using Blender, making some of the other models such as a cardboard chef that watches you while you cook."
+    ]
+  },
+
+  {
+    "name": "College Unity 3D Project",
+    "tags": [ "C#", "Game Programming", "Game Design", "Unity3D", "Graphic Design", "Krita", "3D Modeling", "3D Animation", "Blender" ],
+    "link": "https://www.youtube.com/watch?v=pHK9P2Y6yIo",
+    "link_label": "Video Demo",
+    "description": [
+      "For a term project as part of a class titled \"Engaging in Virtual Worlds\" with course number \"CS-462\", I developed a game using primarily C#, Unity3D, and Blender.  I created all of the models, animated the models, and programmed",
+      " all of the game mechanics myself besides enemy path finding, for which I used Unity's AI navigation tools (I started creating my own, but did not have the time to fix the bugs).  I worked on this project really often ",
+      "during the semester, determined to do as much as I could for the project before the end of the semester.  3D modeling began early, near the beginning of the semester as per homework requirements (starting with the player character). ",
+      "Game programming, world building, etc began somewhere around the middle of the semester as assignments were created for milestones of the project, making the timespan of the majority of the project around 1 to 2 months."
+    ]
+  },
+
+  {
+    "name": "Web Application College Project",
+    "tags": [ "Java", "Javascript", "SQL", "Agile Development", "Teamwork", "Github/Git", "Back-End Development", "Front-End Development" ],
+    "link": "NULL",
+    "link_label": "",
+    "description": [
+      "Worked with a team on a term project focused on using Agile processes to take a bare web application and add a bunch of features to it.  Most of the work consisted of using Java to implement features on the back-end, though some ",
+      "time was still spent on the front-end, using Javascript for pretty much all aspects of the front-end.  Responsabilities were pretty much equal amongst the team members including me, where we each contribruted to whichever issues ",
+      "needed to be worked on.  We did, however, assign one team member to act as the \"Scrum Master\" each sprint, each giving ourselves experience in that position.  The Scrum Master's main responsability was to demo the project at the end ",
+      "of the sprint, but there was also some responsability to lead the team in our weekly meetings/scrums."
+    ]
+  },
+
+  {
+    "name": "College Machine Learning Project: Modified Checkers",
+    "tags": [ "Python", "Jupyter Notebooks", "Machine Learning", "Reinforced Learning" ],
+    "link": "NULL",
+    "link_label": "",
+    "description": [
+      "The basis of the project was using reinforced learning in a modified checkers game.  This stemmed from a point made in class that, while tic-tac-toe made for a good small example of reinforced learning, chess would be very difficult to implement ",
+      "reinforced learning for due to not only the number of spaces on the board, but all of the possible moves each piece could make.  This got me thinking about how checkers could be a nice in between - it would be a bigger project than ",
+      "tic-tac-toe, but more possible than chess.  However, simply doing checkers seemed meaningless.  Thus, I decided to add my own modifications to the game, that is, an additional kind of move that a piece could make.  For example, teleportation.\n\n",
+      "Thus, the goal of the project became this: to examine how additional abilities could affect the effectiveness of the reinforcement learning.  I trained the two opposing players for various scenarios with reinforcement learning, using a ",
+      "Neural Network implementation provided in an earlier homework assignement.  In one scenario, it might be a simple game of checkers.  In other, maybe one player has the \"teleportation\" ability, and the other has a different one.\n\n",
+      "Unfortunately the results were not that great.  I tested the results based on comparing the number of wins one player had against the other.  Quite often the additional abilities had little affect, with only some abilities seeming to have something ",
+      "over the other player, although with little change based on things like learning rate or number of training iterations.  The reason behind this, I concluded, was my lack of resources and time.  I could tell that while not as bad as chess, checkers still ",
+      "takes a lot to train.  Attempts to train with certain numbers of iterations/learning rates often ended up taking up a great deal of the day with little progress, so I had to tweak these inputs for faster training time.  The results of this were that ",
+      "the reinforcment learning models could not experience enough games to improve their decision making.  Because of this, most games were just repetitive, making the results of the project minimal.  Nevertheless I still believe I gained a lot from this ",
+      "project.  I had to program a modified checkers game in such a way so that it could play itself (that is, such a way that all players could be ran by the reinforcement learning models).  I also had to really think about how the reinforcement learning ",
+      "algorithms worked while I made attempts to improve results and debug various errors."
+    ]
+  }
+]

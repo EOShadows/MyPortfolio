@@ -1,0 +1,110 @@
+[
+  {
+    "tag": "C#",
+    "description": [
+      "I have accrued a lot of experience in C#.",
+      "  It was the first programming language I ever learned,",
+      " starting with event driven Windows Forms / .NET Framework.",
+      "  Soon after I learned game programming using XNA and Monogame.",
+      " Then I started using it in Unity, which I have continued to do",
+      " for about 4 years, for hobbies, personal projects, and even acedemic",
+      " work.  I have, using Unity, used C# to program both 2D and 3D games, as well",
+      " as some various applications to help me with tasks, such as a small queue",
+      " application to keep track of students I helped in my TA positions. Additionally",
+      " I have also been using it a lot as I explore its other uses for different small projects,",
+      " including using it with .NET Core in web development with Blazor (particularly for this website), and returning to WinForms",
+      " to rewrite the template into simple base game code."
+    ]
+  },
+  {
+    "tag": "Java",
+    "description": [
+      "I have also accrued a lot of experience in Java, although perhaps not quite as much as C#. \n",
+      "The main areas I have used it in are through acedemic work and internship work.  I have used Java for homework and class projects",
+      " where I have done things such as written programs demonstrating algorithms and data structures, and adding features to the server side of",
+      " a full stack web application involving modifying RESTful API code.  ",
+      "In internship work I have used it to write applications in Android Studio that I would run on Android TV products through adb.  In these applications ",
+      "I used Java for networking solutions, using Java features such as web sockets."
+    ]
+  },
+  {
+    "tag": "C++",
+    "description": [
+      "I have also been using C++ for while, gaining a lot of experience.  I have taken a lot of acedemic courses where c++ was",
+      " the language taught, and have now even been working as an assistant teacher for 3 years in courses teaching c++ along with ",
+      "software development fundementals and bash.  I have additionally used it in my own time occasionally, such as using it to program",
+      " a small text based console flashcard application to help me study."
+    ]
+  },
+  {
+    "tag": "Bash/Linux",
+    "description": [
+      "I have been using Linux terminals for almost 3 years, mostly for classes.  This is where I have done the majority of my ",
+      "c++ programming using the text editor \"nano\".  I have also done a bit of programming in bash, and have, in some of my TA work, helped teacher ",
+      "students bash commands (such as those for file creation and navigation) and bash programming."
+    ]
+  },
+  {
+    "tag": "Unity",
+    "description": [
+      "I have used the Unity Game engine for at least 4 years using the C# programming language for both personal and class",
+      "projects and both 2D and 3D games.  I have participated in game jams"
+    ]
+  },
+  {
+    "tag": "CSS",
+    "description": [
+      "More recently gaining experience in this, but I am easily and quickly learning it.  I made this portfolio using it."
+    ]
+  },
+  {
+    "tag": "HTML",
+    "description": [
+      "More recently gaining experience in this, but I am easily and quickly learning it.  I made this portfolio using it."
+    ]
+  },
+  {
+    "tag": "JavaScript",
+    "description": [
+      "I used this programming language in some college courses where I worked with a team to edit web applications for the Front-End side.  Also used",
+      " it for parts of this website."
+    ]
+  },
+  {
+    "tag": "Object Oriented Design",
+    "description": [
+      "Since taking a college class focused on this subject and even titled after it, I have practiced it in some of my own projects as I think about how to design the code."
+    ]
+  },
+  {
+    "tag": "Android Studio",
+    "description": [
+      "Using Java and a bit of XML, I did some Android Application development using Android Studio for Android TV products as a part of my research process during my Software Engineering Internship at DISH."
+    ]
+  },
+  {
+    "tag": "Game Programming",
+    "description": [
+      "I have worked with game programming as part of my own hobbies and personal projects almost as long as I've learned to program in highschool.  I started with the XNA/Monogame framework where I did not use ",
+      "a game engine and instead had to work only with code, programming the steps to write graphics to the screen myself.  I then, a little before college, switched to Unity, where I have since exerecised game programming",
+      " in not only my hobbies and personal projects, but also course work."
+    ]
+  },
+  {
+    "tag": "Python",
+    "description": [
+      "I have had a lot of experience in python (although not as much as C#, C++, or Java) mostly having to do with Machine Learning.  I have taken several Machine Learning courses at college, using Python on Jupyter Notebooks",
+      " to work with various Machine Learning models.  This continues on with the rest of my experience, where my use of Python has mostly been in college courses, such as a course in Algorithms where programming assignments were",
+      " all in python to try out various existing algorithms."
+    ]
+  },
+  {
+    "tag": "Machine Learning",
+    "description": [
+      "I have gained a bit of experiecne in this having taken several Machine Learning courses.  I used Python, Jupyter Notebooks, PyTorch, Pandas, and other tools to try out and better understand Machine Learning concepts such",
+      " as Neural Networks.  In both courses I had projects at the end of the term where I took various concepts and tools from the course for a purpose of my own.  In one such project I attempted to use reinforcement learning and a ",
+      "neural network for a modified checkers game.  Unfortunately due to a lack of time and resources to train the model, I could not get very good results, but I still feel that the experience was useful",
+      ", where I had to think about the various processes to train the players in the checkers game and how reinforcement learning works."
+    ]
+  }
+]
