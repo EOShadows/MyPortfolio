@@ -12,5 +12,7 @@ else {
 
 const theme = themes[cur_theme];
 
+alert("Alert!");
+
 document.getElementById("main_body").style = "background-color: " + theme.secondary;
 document.getElementById("page_style").href = "css/page_styles_for_themes/style_" + cur_theme + ".css";
