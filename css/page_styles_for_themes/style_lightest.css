@@ -5,8 +5,8 @@
     --border_color: white;
     --shadow_normal: 0 8px 5px 8px rgba(0, 0, 0, 0.2);
     --mybutton_hover_border: 2px solid #e1dae6;
-    --cs_icon: url("../images/version2/cs_icon_dark.png");
-    --game_icon: url("../images/version2/game_icon_dark.png");
-    --bg_image: url("../images/version2/tech_bg_dark.png");
+    --cs_icon: url("images/version2/cs_icon_dark.png");
+    --game_icon: url("images/version2/game_icon_dark.png");
+    --bg_image: url("images/version2/tech_bg_dark.png");
     --tag_color: rainbow-bright;
 }
