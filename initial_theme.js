@@ -1,4 +1,4 @@
-import themes from "Data/color_themes.json" assert { type: "json"};
+import themes from "MyPortfolio/Data/color_themes.json" assert { type: "json"};
 
 const darkTheme = window.matchMedia("(prefers-color-scheme: dark)");
 let cur_theme = "darkest"
